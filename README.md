@@ -1,4 +1,4 @@
-# 📈 361 Awesome Investing Tools & Software for Investors
+# 📈 362 Awesome Investing Tools & Software for Investors
 
 > A practical, editorially curated directory of investing research tools, datasets, brokers, APIs, calculators, and communities.
 
@@ -29,7 +29,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 | [🧪 Portfolio, Risk and Backtesting](#-portfolio-risk-and-backtesting) | 41 |
 | [🔎 Screening and Discovery](#-screening-and-discovery) | 95 |
 | [🤖 Automation, Data and Integrations](#-automation-data-and-integrations) | 37 |
-| [🎓 Education and Community](#-education-and-community) | 8 |
+| [🎓 Education and Community](#-education-and-community) | 9 |
 | [🧮 Calculators](#-calculators) | 2 |
 | [📡 Market Data, News and Alerts](#-market-data-news-and-alerts) | 36 |
 | [📊 Research and Valuation](#-research-and-valuation) | 40 |
@@ -388,6 +388,7 @@ Last refreshed **August 15, 2026** from the Find My Moat research catalog.
 - [Investment Masters Class (MastersInvest.com)](https://mastersinvest.com) — Investment Masters Class is a free educational site focused on timeless investing lessons, curated reading, investor letters, and essays about great investors and business builders. It is useful for improving process… ([research profile](https://www.findmymoat.com/tools/investment-masters-class-mastersinvest-com?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=investment-masters-class-mastersinvest-com))
 - [Investopedia](https://www.investopedia.com) — Investopedia is a free finance education and market news publisher with a widely searched Stock Simulator for paper trading. It is best for beginners, students, educators, and self-directed investors who want… ([research profile](https://www.findmymoat.com/tools/investopedia?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=investopedia))
 - [Khan Academy (Economics & Finance)](https://www.khanacademy.org/economics-finance-domain) — Khan Academy Economics & Finance is a free education hub for learning economics, finance, capital markets, financial literacy, personal finance, and basic investing concepts before using more advanced investment tools.… ([research profile](https://www.findmymoat.com/tools/khan-academy-economics-finance?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=khan-academy-economics-finance))
+- [PerfectPerf — Stock vs ETF educational comparator](https://www.perfectperf.pro) — Free educational stock-vs-ETF comparator with fictional prices, adjustable fees and a partial sale, plus a worked guide. No account needed. The broader PerfectPerf audit is still in development.
 - [r/SecurityAnalysis - Letters Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/letters/) — The r/SecurityAnalysis Letters Wiki is a free, community-maintained reading list of investor letters, hedge fund letters, fund reports, and related quarterly threads. It is useful for idea generation and learning from… ([research profile](https://www.findmymoat.com/tools/r-securityanalysis-letters-wiki?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=r-securityanalysis-letters-wiki))
 - [ValuePickr Forum](https://forum.valuepickr.com) — ValuePickr Forum is a free, India-focused investing community for reading long-form discussions on mid- and small-cap companies. It is useful for qualitative idea discovery and fieldwork-style debate, but posts are… ([research profile](https://www.findmymoat.com/tools/valuepickr-forum?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=valuepickr-forum))
 - [Wealth Hub - Hedge Fund Letters](https://www.wealthhubtrading.com/hedge-fund-letters) — Wealth Hub Hedge Fund Letters is a free public index of hedge fund investor letters and 13-F report links organized by quarter. It is useful for value investors, analysts, and students who want manager commentary, idea… ([research profile](https://www.findmymoat.com/tools/wealth-hub-hedge-fund-letters?utm_source=github&utm_medium=referral&utm_campaign=awesome_investing_tools&utm_content=wealth-hub-hedge-fund-letters))

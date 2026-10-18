@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "PerfectPerf — Stock vs ETF educational comparator",
+    "url": "https://www.perfectperf.pro",
+    "categories": [
+      "Education"
+    ],
+    "summary": "Free educational stock-vs-ETF comparator with fictional prices, adjustable fees and a partial sale, plus a worked guide. No account needed. The broader PerfectPerf audit is still in development."
+  }
+]
